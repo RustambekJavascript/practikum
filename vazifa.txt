@@ -1,0 +1,11 @@
+Sukhrob
+1.header
+2.tariffs
+3.news
+4.contacts
+
+Rustam
+1.footer
+2.main
+3.deliviy
+4.about us
